@@ -1,28 +1,17 @@
-# Project Title
+# Full Stack Developer Course
 
-## Forkthis Repo for Practice
+## Practice Repo and Pushes
 
-### Write your author name here. eg. By Nicole
+### Brian K Heger
 
-### Description
+### This is practice for how to become a full stakc developer
 
-Create a description and fill it in here.
+## Javascript used
 
-## Languages used
 
-What languages were used for this repo:
-List them
+### There are no known bugs other than the developer himself
 
-### Known Bugs
+## Licensed by bkheger inc
 
-Are there any? If so what are they?
+## Thanks to codebaseacademy for making this almost work
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
